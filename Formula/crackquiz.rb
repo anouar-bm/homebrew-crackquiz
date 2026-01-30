@@ -1,8 +1,8 @@
 class Crackquiz < Formula
   desc "Cross-platform CLI tool for opening-quiz skill"
   homepage "https://github.com/anouar-bm/-CrackQuiz"
-  url "https://registry.npmjs.org/crackquiz/-/crackquiz-0.2.9.tgz"
-  sha256 "d70e94b44352ec9209e8bbf9e69ee6116d96a975"
+  url "https://registry.npmjs.org/crackquiz/-/crackquiz-0.2.10.tgz"
+  sha256 "6e27b8717d3676ec8764df648daa883bd596c0b00e67f8754ae58a8d9e2a73e5"
   license "ISC"
 
   depends_on "node"
