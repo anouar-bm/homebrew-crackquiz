@@ -1,3 +1,5 @@
+require "language/node"
+
 class Crackquiz < Formula
   desc "Cross-platform CLI tool for opening-quiz skill"
   homepage "https://github.com/anouar-bm/-CrackQuiz"
