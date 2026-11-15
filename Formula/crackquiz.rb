@@ -3,8 +3,8 @@ require "language/node"
 class Crackquiz < Formula
   desc "Cross-platform CLI tool for opening-quiz skill"
   homepage "https://github.com/anouar-bm/-CrackQuiz"
-  url "https://registry.npmjs.org/crackquiz/-/crackquiz-0.3.0.tgz"
-  sha256 "052682bf2609e923023e3fd46be624e22289421fe76d26c6b747834e3fc9a607"
+  url "https://registry.npmjs.org/crackquiz/-/crackquiz-0.4.0.tgz"
+  sha256 "971b3ee2903a1d68867e6b34a88f966fb431afe1d3456734eadb6f7471478f98"
   license "ISC"
 
   depends_on "node"
